@@ -1,0 +1,35 @@
+https://www.calhoun.io
+href: / text: Calhoun.io
+href: / text: Recent Articles
+href: /series   text: Multipart Articles (Series)
+href: /about    text: About
+href: /courses  text: Go Courses
+href: https://www.usegolang.com text: Learn Web Development with Go
+href: https://gophercises.com   text: Practice Go with Gophercises
+href: https://www.calhoun.io/when-nil-isnt-equal-to-nil/        text: When nil Isn't Equal to nil
+href: https://www.calhoun.io/interfaces-define-requirements/    text: Interfaces Define Requirements
+href: https://www.calhoun.io/building-gophercises/      text: Building Gophercises
+href: https://www.calhoun.io/apis-are-just-web-applications/    text: JSON APIs Are Just Web Applications
+href: https://www.calhoun.io/why-cant-i-pass-this-function-as-an-http-handler/  text: Why Cant I Pass This Function as an Http Handler?!
+href: https://www.calhoun.io/gotham-go-2018/    text: Gotham Go 2018
+href: /page/2/  text: Next Page →
+href: https://www.calhoun.io/6-tips-for-using-strings-in-go/    text: 6 Tips for Using Strings in Go
+href: https://www.calhoun.io/intro-to-templates-p3-functions/   text: Using Functions Inside Go Templates
+href: https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ text: Connecting to a PostgreSQL database with Go's database/sql package
+href: https://www.calhoun.io/creating-random-strings-in-go/     text: Creating Random Strings in Go
+href: https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/        text: Inserting records into a PostgreSQL database with Go's database/sql package
+href: https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/        text: How to use slice capacity and length in Go
+href: /using-postgresql-with-go text:
+href: /using-postgresql-with-go text: Using PostgreSQL with Go
+href: /using-postgresql-with-go text: It's SQL Time
+href: /lets-learn-algorithms    text:
+href: /lets-learn-algorithms    text: Let's Learn Algorithms
+href: /lets-learn-algorithms    text: Let's Learn Algorithms
+href: https://twitter.com/joncalhoun    text: Follow @joncalhoun
+href: mailto:jon@calhoun.io     text: get in touch
+href: / text: Recent Articles
+href: /all/     text: All Articles
+href: /series   text: Mini-Series
+href: /tags/    text: Tags
+href: /about    text: About Me
+href: /courses  text: Go Courses
